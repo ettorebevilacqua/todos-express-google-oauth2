@@ -52,7 +52,7 @@ function(accessToken, refreshToken, profile, cb) {
     }
   });
 }));
-  
+
 // Configure Passport authenticated session persistence.
 //
 // In order to restore authentication state across HTTP requests, Passport needs
